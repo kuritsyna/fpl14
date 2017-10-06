@@ -14,13 +14,19 @@ Lepigina, 9
 
 Loginova, 9
 
-Orlina_Lezzhova 0
+Motov, 9
+
+Orlina, 9
+
+Ожеред, 9
 
 Земляк, 9
 
 Никифорова, 9
 
 Садыкова, 9
+
+Ranich, 9
 
 Savkina, 9
 
@@ -30,7 +36,6 @@ Shakirova, 9
 
 Sorokin, 9
 
-Sinitsyna_Mukhina, 9
+Sinitsyna, 9
 
 Sviridyuk, 0
-
